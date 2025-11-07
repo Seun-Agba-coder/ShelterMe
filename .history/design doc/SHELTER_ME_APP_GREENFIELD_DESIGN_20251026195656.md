@@ -1,34 +1,23 @@
+<p><a target="_blank" href="https://app.eraser.io/workspace/vmnSKDB4upN0ZsHyMLsC" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
+
 # New Project Template: Curriculum App MVP
-
-
 ## 1. Introduction
-
-
 This document outlines the architectural plan for the Minimum Viable Product (MVP) of the ShelterMe App. It's intended for the project's development team and future architects. It will guide the initial development and future enhancements.
 
-
-
 ### 1.2 Scope
-
 The architecture covers the MVP of the Curriculum App, focusing on user account Student feature, AgentFeature, Payment GateWay, AdminFeature.
 
-
-
 ### 1.3 Definitions, Acronyms, and Abbreviations
-
-
-* **MVP:** Minimum Viable Product
-* **API:** Application Programming Interface
-* **DB:** Database
-
-
+- **MVP:** Minimum Viable Product
+- **API:** Application Programming Interface
+- **DB:** Database
 ### 1.5 Overview
-
 The document proceeds to detail the architectural style, system stakeholders and concerns, a high-level system overview, architectural strategies, system architecture, key decisions, quality attributes, risks, and technical debt.
 
-
-
 ## 2. Architectural Representation
-
-
 ### 2.1 Architectural Style and Rationale
+
+
+
+
+<!--- Eraser file: https://app.eraser.io/workspace/vmnSKDB4upN0ZsHyMLsC --->

@@ -1,3 +1,5 @@
+<p><a target="_blank" href="https://app.eraser.io/workspace/VQFUN8jrBng3ulz3Oxub" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
+
 Shelter Me App - Product & Business Requirements
 Product Requirements:
 
@@ -9,11 +11,10 @@ A 3-role system:
 2. Landlords / House Agents
 3. Admin (Pre-registered only — no public registration)
 4. User Account Management.
-   All three user's type should be able to create an account on the platform>
-   User's should be allowed to create, log in or out of their account.
-   Implement email verification for account security.
+All three user's type should be able to create an account on the platform>
+User's should be allowed to create, log in or out of their account.
+Implement email verification for account security.
 5. Student Features
-
 - View verified housing listings with filters (price, distance, amenities, type).
 - Book accommodation and pay securely via the platform.
 - Receive confirmation after admin verification when they pay.
@@ -23,22 +24,17 @@ A 3-role system:
 - Have a list of generated Receipt of each payment made on the app*.
 - Able to chat with an Agent throught the platform*.
 - Should be able to ask for a refund*
-
 1. Landlord / Agent Features
-
-- Should be able to upload property listings  with the following destails (Title, Description, Price, Location, Amenities, Photos, Videos if included)
+- Should be able to upload property listings with the following destails (Title, Description, Price, Location, Amenities, Photos, Videos if included)
 - should wait for their listing to be verified by admin by showing them ( **“Pending Verification”**).
-  (Agents have same access level as landlords, but role-based distinction applies.)
+(Agents have same access level as landlords, but role-based distinction applies.)
 - should be able to receive payment made through the app*
 - Chat with instrested student*
-
 1. Admin Features
-
 - Admin login only (no registration – credentials pre-seeded in the database).
 - Verify new properties posted by an agent, online, by either Approving or rejecting the listings throught the below (visiting the location physically and confirm amenities)
 - Handle all customer support inquiries from students.
 - Manage disputes and refunds.
-
 Payment Flow:
 
 1. Student books and pays rent through the platform.
@@ -46,11 +42,9 @@ Payment Flow:
 3. Admin verifies property location & amenities physically.
 4. If verified → landlord/agent receives payment.
 5. If unverified → student is refunded (excluding 2% service fee).
-
 Responsive Design:
 
 1. Ensure the app is usable on various devices including desktops, tablets, and smartphones.
-
 Non-Functional Requirements:
 Performance:
 
@@ -71,10 +65,10 @@ Business Requirements:
 User Feedback:
 
 Implement mechanisms to gather user feedback for continuous improvement.
-Launch the MVP as quickly as possible to get feedback  timeframe (3 (1/2) weeks).
+Launch the MVP as quickly as possible to get feedback timeframe (3 (1/2) weeks).
 Monetization Strategy:
 
-We will be receiving  2 percent of every payment made from the app.
+We will be receiving 2 percent of every payment made from the app.
 
 Marketing & Promotion:
 
@@ -82,3 +76,7 @@ Develop a marketing strategy to promote the app through various channels.
 Legal Compliance:
 
 Ensure compliance with data protection laws and intellectual property rights.
+
+
+
+<!--- Eraser file: https://app.eraser.io/workspace/VQFUN8jrBng3ulz3Oxub --->

@@ -1,51 +1,31 @@
+<p><a target="_blank" href="https://app.eraser.io/workspace/RcZQfEigcv5lFaDCpdZH" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
+
 # New Project Template: Curriculum App MVP
-
-
 ## 1. Introduction
-
-
 This document outlines the architectural plan for the Minimum Viable Product (MVP) of the ShelterMe App. It's intended for the project's development team and future architects. It will guide the initial development and future enhancements.
 
-
-
 ### 1.2 Scope
-
 The architecture covers the MVP of the Curriculum App, focusing on user account Student feature, AgentFeature, Payment GateWay, AdminFeature.
 
-
-
 ### 1.3 Definitions, Acronyms, and Abbreviations
-
-
-* **MVP:** Minimum Viable Product
-* **API:** Application Programming Interface
-* **DB:** Database
-
-
+- **MVP:** Minimum Viable Product
+- **API:** Application Programming Interface
+- **DB:** Database
 ### 1.5 Overview
-
 The document proceeds to detail the architectural style, system stakeholders and concerns, a high-level system overview, architectural strategies, system architecture, key decisions, quality attributes, risks, and technical debt.
 
-
-
 ## 2. Architectural Representation
-
-
 ### 2.1 Architectural Style and Rationale
-
 The system will use a **Monolithic Architectural Style** for the MVP to simplify deployment and development. We are focusing on time to launch so we can get real users on the platform and start iterating. Given the scope and scale at this stage, a monolithic approach is cost-effective and straightforward to implement.
 
-
-
 ## 3. System Stakeholders and Concerns
-
-
 ### 3.1 Stakeholders
-
-
-* **Users:** Students Looking to find lodge off campus in G.K, Agents/Landlords looking to list their Lodges online, Admin the person that appoves the House listing made by an agent or Landlord
-* **Developers:** The team developing and maintaining the app.
-* **Business Owners:** Stakeholders interested in the commercial success and growth of the app.
-
-
+- **Users:** Students Looking to find lodge off campus in G.K, Agents/Landlords looking to list their Lodges online, Admin the person that appoves the House listing made by an agent or Landlord
+- **Developers:** The team developing and maintaining the app.
+- **Business Owners:** Stakeholders interested in the commercial success and growth of the app.
 ### 3.2 System Concerns
+
+
+
+
+<!--- Eraser file: https://app.eraser.io/workspace/RcZQfEigcv5lFaDCpdZH --->
