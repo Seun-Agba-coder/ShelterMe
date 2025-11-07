@@ -1,0 +1,89 @@
+Shelter Me App - Product & Business Requirements
+Product Requirements:
+
+Functional Requirement:
+
+A 3-role system:
+1. Students
+2. Landlords / House Agents
+3. Admin (Pre-registered only — no public registration)
+
+
+1. User Account Management.
+All three user's type should be able to create an account on the platform>
+User's should be allowed to create, log in or out of their account.
+Implement email verification for account security.
+
+
+
+2. Student Features
+- View verified housing listings with filters (price, distance, amenities, type).
+- Use roommate-matching feature based on gender, lifestyle, and habits*.
+- 
+- Book accommodation and pay securely via the platform.
+- Able to chat with an Agent throught the platform.
+- Receive confirmation after admin verification when they pay.
+- Get notifications when booking status changes.
+- Access customer support through live chat or ticket system.
+- Should be able to ask for a refund
+
+3. Landlord / Agent Features
+- Should be able to upload property listings  with the following destails (Title, Description, Price, Location, Amenities, Photos, Videos if included)
+- Chat with instrested student.
+- should wait for their listing to be verified by admin by showing them ( **“Pending Verification”**).
+(Agents have same access level as landlords, but role-based distinction applies.)
+- should be able to receive payment made through the app
+- 
+4. Admin Features
+- Admin login only (no registration – credentials pre-seeded in the database).
+- Verify new properties (visit location physically and confirm amenities) posted by an agent.
+- Approve or reject listings.
+- Approve or reject student bookings after verification.
+- Handle all customer support inquiries from students.
+- Manage disputes and refunds.
+
+Payment Flow:
+1. Student books and pays rent through the platform.
+2. Admin is notified automatically.
+3. Admin verifies property location & amenities physically.
+4. If verified → landlord/agent receives payment.
+5. If unverified → student is refunded (excluding 2% service fee).
+
+Responsive Design:
+
+1. Ensure the app is usable on various devices including desktops, tablets, and smartphones.
+
+
+Non-Functional Requirements:
+Performance:
+
+Ensure quick load times and responsive interaction for a smooth user experience.
+
+Scalability:
+
+Design the backend to handle an increasing number of users and data entries efficiently.
+Security:
+
+Secure user data with proper encryption and secure communication protocols.
+Protect against common vulnerabilities like SQL injection and XSS.
+Maintainability:
+
+Write clean, modular, and well-documented code to make future updates easier.
+
+
+
+Business Requirements:
+User Feedback:
+
+Implement mechanisms to gather user feedback for continuous improvement.
+Launch the MVP as quickly as possible to get feedback  timeframe (3 (1/2) weeks).
+Monetization Strategy:
+
+We will be receiving  2 percent of every payment made from the app.
+
+Marketing & Promotion:
+
+Develop a marketing strategy to promote the app through various channels.
+Legal Compliance:
+
+Ensure compliance with data protection laws and intellectual property rights.
